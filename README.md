@@ -45,6 +45,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 ## OS Images
 
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
+- [Anthias](https://anthias.screenly.io/) - The world's most popular open source digital signage project.
 - [Arch Linux ARM](https://archlinuxarm.org/) - Lightweight and flexible Linux distribution that tries to Keep It Simple.
 - [Armbian](https://www.armbian.com/rpi4b/) - A base operating system platform for single board computers (SBCs) that other projects can trust to build upon.
 - [balenaOS](https://www.balena.io/os/) - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
