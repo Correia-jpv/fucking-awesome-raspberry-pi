@@ -228,7 +228,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [RPi-eth-display](https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html) - Open source DisplayLink alternative, ethernet to HDMI adapter.
 - [RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
 - [RPI tempmon](https://github.com/gavinlyonsrepo/raspberrypi_tempmon) - CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.
-- [Secluso](https://github.com/secluso/core) - A private-by-default Raspberry Pi home security camera that uses end-to-end encryption. Supports Raspberry Pi Zero 2W.
+- [Secluso](https://github.com/secluso/core) - A private-by-default Raspberry Pi home security camera that uses end-to-end encryption. ![Supports Raspberry Pi Zero 2W](/media/badges/rpi-2+.png)
 - [SecPi](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system.
 - [Skate-o-Meter](http://www.instructables.com/id/Skate-o-Meter/) - Skateboard odometer and speedometer with RFID user system.
 - [SkyJack](https://samy.pl/skyjack/) - Take over and allow full control over any Parrot AR Drone within wireless distance.
